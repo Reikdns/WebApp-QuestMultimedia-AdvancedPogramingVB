@@ -3,7 +3,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
  
-    <link rel="StyleSheet" type="text/css" href="./Styles/StyleSheet.css"/>
+    <link rel="StyleSheet" type="text/css" href="./Styles/LoginStyleSheet.css"/>
 
     <div id="primaryContainer">
         <table id="registerView">

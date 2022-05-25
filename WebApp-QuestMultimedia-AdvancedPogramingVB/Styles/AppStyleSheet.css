@@ -1,0 +1,19 @@
+﻿mycircle {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: coral;
+    animation: 2s alternate myan
+}
+
+@keyframes myan {
+    from {
+        width: 100px;
+        height: 100px;
+    }
+
+    to{
+        width: 300px;
+        height: 300px
+    }
+}

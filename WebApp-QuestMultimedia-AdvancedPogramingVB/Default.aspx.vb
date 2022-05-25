@@ -33,9 +33,14 @@
 
         userService.NewUser(user)
 
+        ClearTextBoxs()
+    End Sub
+
+    Private Sub ClearTextBoxs()
         NamesTextBox.Text = String.Empty
         LastnamesTextBox.Text = String.Empty
         UsernameTextBox.Text = String.Empty
         PassTextBox.Text = String.Empty
     End Sub
+
 End Class
