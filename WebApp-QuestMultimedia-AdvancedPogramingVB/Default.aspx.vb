@@ -19,6 +19,8 @@
         End If
 
         If user.Pass = PasswordForm.Text Then
+            AccesButton.CssClass = "loadIndex"
+
             Response.Redirect("About.aspx")
         End If
 

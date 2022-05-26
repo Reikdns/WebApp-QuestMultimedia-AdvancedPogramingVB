@@ -14,11 +14,20 @@ Option Explicit On
 Partial Public Class About
 
     '''<summary>
-    '''Control a.
+    '''Control BackButton.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents a As Global.System.Web.UI.WebControls.Image
+    Protected WithEvents BackButton As Global.System.Web.UI.WebControls.ImageButton
+
+    '''<summary>
+    '''Control FooterText.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents FooterText As Global.System.Web.UI.WebControls.Label
 End Class

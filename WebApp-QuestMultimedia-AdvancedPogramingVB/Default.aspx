@@ -24,13 +24,13 @@
                             />
                         </div>
                         <br />
-                        <div style="width: 90%; margin: 0px auto 0 auto;">
+                        <div style="width: 90%; margin: 0px auto 0 7%;">
                             <asp:Label Text="Nombre de usuario" runat="server" 
                                        ForeColor="White" Font-Names="Verdana" Font-Size="Medium"
                             />
                             <asp:TextBox ID="UsernameForm" runat="server" Width="100%"/>
                         </div>
-                        <div style="width: 90%; margin: 20px auto 0 auto;">
+                        <div style="width: 90%; margin: 20px auto 0 7%;">
                             <asp:Label Text="Contraseña" runat="server"
                                        ForeColor="White" Font-Names="Verdana" Font-Size="Medium"
                             />
@@ -43,7 +43,10 @@
                             />
                         </div>
                         <br />
-                        <br />
+                        <div id="loadBar">
+                            <div class="loadIndex">
+                            </div>
+                        </div>
                         <div style="width: 90%; margin: 20px auto 0 auto; text-align:center">
                             <asp:Label ID="FooterText" Text="Universidad Nacional Abierta y a Distancia, todos los derechos reservados." runat="server" 
                                        ForeColor="White" Font-Names="Verdana" Font-Size="X-Small"    
@@ -114,4 +117,15 @@
             </tr>
         </table>
     </div>
+
+    <script>
+
+        var loadIndex = document.querySelector(".loadIndex")
+        
+        window.addEventListener('beforeunload', e => {
+            e.preventDefault()
+            loadIndex.classList.add("loadingBar")
+        })
+
+    </script>
 </asp:Content>

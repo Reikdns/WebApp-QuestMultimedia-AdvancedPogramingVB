@@ -37,6 +37,24 @@ WebApp-QuestMultimedia-AdvancedPogramingVB
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.About._BackButton">
+<summary>
+Control BackButton.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.About._FooterText">
+<summary>
+Control FooterText.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB._Default._UsernameForm">
 <summary>
 Control UsernameForm.
