@@ -128,3 +128,11 @@ html, body {
 .loadingBar {
     animation: 0.5s infinite load;
 }
+
+.rowDiv {
+    width: 90%;
+    height: 30%;
+    background-color: white;
+    border-radius: 30%;
+    box-shadow: rgba(0,0,0,4) 10px 10px inset;
+}

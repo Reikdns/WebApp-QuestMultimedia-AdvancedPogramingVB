@@ -123,7 +123,7 @@
 
         myCircle1.addEventListener('click', e => {
             e.preventDefault()
-            location.href = "/Contact"
+            location.href = "/CloudMenu"
         })
 
         myCircle2.addEventListener('click', e => {

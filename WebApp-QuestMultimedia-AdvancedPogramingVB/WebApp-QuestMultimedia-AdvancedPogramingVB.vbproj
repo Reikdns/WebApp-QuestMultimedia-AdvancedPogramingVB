@@ -135,6 +135,7 @@
     <Content Include="App_Data\MyDb_log.ldf">
       <DependentUpon>MyDb.mdf</DependentUpon>
     </Content>
+    <Content Include="CloudMenu.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -142,6 +143,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
+    <Content Include="EvaluationSection.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -154,6 +156,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="MultiMediaHelpSection.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -197,6 +200,13 @@
       <DependentUpon>About.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="CloudMenu.aspx.designer.vb">
+      <DependentUpon>CloudMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CloudMenu.aspx.vb">
+      <DependentUpon>CloudMenu.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Conection.vb" />
     <Compile Include="Contact.aspx.designer.vb">
       <DependentUpon>Contact.aspx</DependentUpon>
@@ -212,8 +222,22 @@
     <Compile Include="Default.aspx.designer.vb">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="EvaluationSection.aspx.designer.vb">
+      <DependentUpon>EvaluationSection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EvaluationSection.aspx.vb">
+      <DependentUpon>EvaluationSection.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="MultiMediaHelpSection.aspx.designer.vb">
+      <DependentUpon>MultiMediaHelpSection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MultiMediaHelpSection.aspx.vb">
+      <DependentUpon>MultiMediaHelpSection.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

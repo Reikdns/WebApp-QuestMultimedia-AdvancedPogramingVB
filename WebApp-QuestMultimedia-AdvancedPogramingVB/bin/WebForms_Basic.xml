@@ -55,6 +55,24 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.CludMenu._BackButton">
+<summary>
+Control BackButton.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.CludMenu._FooterText">
+<summary>
+Control FooterText.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB._Default._UsernameForm">
 <summary>
 Control UsernameForm.
@@ -130,6 +148,42 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB._Default._RegisterButon">
 <summary>
 Control RegisterButon.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._BackButton">
+<summary>
+Control BackButton.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._FooterText">
+<summary>
+Control FooterText.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.MultiMediaHelpSection._BackButton">
+<summary>
+Control BackButton.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.MultiMediaHelpSection._FooterText">
+<summary>
+Control FooterText.
 </summary>
 <remarks>
 Campo generado automáticamente.
