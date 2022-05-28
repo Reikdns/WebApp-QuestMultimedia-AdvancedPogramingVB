@@ -154,6 +154,15 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._Timer1">
+<summary>
+Control Timer1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._BackButton">
 <summary>
 Control BackButton.
@@ -172,6 +181,132 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._TrueQuestion1">
+<summary>
+Control TrueQuestion1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._FalseQuestion1">
+<summary>
+Control FalseQuestion1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._TrueQuestion2">
+<summary>
+Control TrueQuestion2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._FalseQuestion2">
+<summary>
+Control FalseQuestion2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._TrueQuestion3">
+<summary>
+Control TrueQuestion3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._FalseQuestion3">
+<summary>
+Control FalseQuestion3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._TrueQuestion4">
+<summary>
+Control TrueQuestion4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._FalseQuestion4">
+<summary>
+Control FalseQuestion4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._TrueQuestion5">
+<summary>
+Control TrueQuestion5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._FalseQuestion5">
+<summary>
+Control FalseQuestion5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._DefaultText">
+<summary>
+Control DefaultText.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._ApprovedText">
+<summary>
+Control ApprovedText.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._ReprobedText">
+<summary>
+Control ReprobedText.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.EvaluationSection._FinishButton">
+<summary>
+Control FinishButton.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.MultiMediaHelpSection._BackButton">
 <summary>
 Control BackButton.
@@ -184,6 +319,42 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.MultiMediaHelpSection._FooterText">
 <summary>
 Control FooterText.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.MultiMediaHelpSection._Label1">
+<summary>
+Control Label1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.MultiMediaHelpSection._Label2">
+<summary>
+Control Label2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.MultiMediaHelpSection._Label3">
+<summary>
+Control Label3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApp_QuestMultimedia_AdvancedPogramingVB.MultiMediaHelpSection._Label4">
+<summary>
+Control Label4.
 </summary>
 <remarks>
 Campo generado automáticamente.
